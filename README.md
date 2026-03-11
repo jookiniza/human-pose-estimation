@@ -1,4 +1,4 @@
-# Human Pose Estimation 🤸‍♂️
+# Human Pose Estimation 
 
 ## Descripción del Proyecto
 Este proyecto se centra en la Estimación de Postura Humana (Pose Estimation) utilizando técnicas de Visión por Computador y Deep Learning. El objetivo principal ha sido [escribe aquí el objetivo: e.g., detectar puntos clave del cuerpo en tiempo real / evaluar diferentes arquitecturas para la detección de articulaciones]. 
